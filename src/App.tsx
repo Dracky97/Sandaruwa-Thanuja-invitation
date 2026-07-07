@@ -199,7 +199,7 @@ export default function App() {
             <h2 className="font-serif text-3xl md:text-5xl leading-relaxed font-light italic">
               "Life wrote our souls into the same story!"
             </h2>
-            <p className="mt-8 text-white/60 tracking-widest uppercase text-sm">Sandaruwan & Thanuja</p>
+            <p className="mt-8 text-white/60 tracking-widest uppercase text-sm">Thanu & Sandaruwan</p>
           </motion.div>
         </section>
 
