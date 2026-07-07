@@ -74,10 +74,10 @@ export default function App() {
               transition={{ duration: 0.8, delay: 0.7 }}
               className="font-serif text-6xl md:text-8xl lg:text-9xl mb-6 leading-none"
             >
-              Sandaruwan <br className="md:hidden" />
+              Thanuja <br className="md:hidden" />
               <span className="text-4xl md:text-6xl italic text-white/80 mx-4 font-light">&amp;</span> 
               <br className="md:hidden" />
-              Thanuja
+              Sandaruwan
             </motion.h1>
             
             <motion.p 
@@ -197,7 +197,7 @@ export default function App() {
           >
             <Heart className="w-10 h-10 mx-auto mb-8 opacity-50" />
             <h2 className="font-serif text-3xl md:text-5xl leading-relaxed font-light italic">
-              "Whatever our souls are made of, his and mine are the same."
+              "Life wrote our souls into the same story!"
             </h2>
             <p className="mt-8 text-white/60 tracking-widest uppercase text-sm">Sandaruwan & Thanuja</p>
           </motion.div>
@@ -335,7 +335,8 @@ export default function App() {
 
         {/* Footer */}
         <footer className="w-full py-10 text-center glass-panel rounded-none border-x-0 border-b-0 mt-20">
-          <p className="font-serif text-2xl mb-2">Sandaruwan & Thanuja</p>
+          <p className="text-white/70 text-sm tracking-widest uppercase mb-3">With love, we await your presence.</p>
+          <p className="font-serif text-2xl mb-2">Thanuja & Sandaruwan</p>
           <p className="text-white/50 text-sm tracking-widest uppercase">August 13, 2026</p>
         </footer>
 
