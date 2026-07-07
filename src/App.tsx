@@ -214,7 +214,7 @@ export default function App() {
           >
             <div className="text-center mb-10">
               <h2 className="font-serif text-5xl mb-4">RSVP</h2>
-              <p className="text-white/80 font-light tracking-wide">Kindly respond by August 05th, 2026</p>
+              <p className="text-white/80 font-light tracking-wide">Kindly respond by August 01st, 2026</p>
             </div>
 
             {isSubmitted ? (
