@@ -337,7 +337,6 @@ export default function App() {
         <footer className="w-full py-10 text-center glass-panel rounded-none border-x-0 border-b-0 mt-20">
           <p className="text-white/70 text-sm tracking-widest uppercase mb-3">With love, we await your presence.</p>
           <p className="font-serif text-2xl mb-2">Thanuja & Sandaruwan</p>
-          <p className="text-white/50 text-sm tracking-widest uppercase">August 13, 2026</p>
         </footer>
 
       </div>
